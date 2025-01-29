@@ -1,1 +1,1 @@
-# webpack-starter
+# webpack-starter template
